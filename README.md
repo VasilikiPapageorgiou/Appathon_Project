@@ -4,7 +4,7 @@
 1. Install mongoDB (v 4.8.2)
 2. Install node js (v 12.18.3)
 3. run `npm i create-react-app` 
-4. 
+4. npx create-react-app appathon_project
 
 
 ### Dataset used: 
