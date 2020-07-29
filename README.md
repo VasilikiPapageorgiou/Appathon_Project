@@ -5,7 +5,8 @@
 2. Install node js (v 12.18.3)
 3. `npm i create-react-app` 
 4. `npx create-react-app appathon_project`
-5. 
+5. start the db `.\mongod.exe --dbpath C:\Programming\MongoDB-data` [docs](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#start-your-mongodb-database)
+
 
 ### Dataset used: 
 https://www.kaggle.com/bappekim/air-pollution-in-seoul
