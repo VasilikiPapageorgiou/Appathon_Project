@@ -5,7 +5,13 @@
 2. Install node js (v 12.18.3)
 3. `npm i create-react-app` 
 4. `npx create-react-app appathon_project`
-5. start the db `.\mongod.exe --dbpath C:\Programming\MongoDB-data` [docs](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#start-your-mongodb-database)
+5. start the db: 
+    `cd \Program Files\MongoDB\Server\4.2\bin>` 
+    `.\mongod.exe --dbpath C:\Programming\MongoDB-data` [docs](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#start-your-mongodb-database)
+6. C:\Programming\Projects\appathon_project> `npm init` 
+7. C:\> `npm install mongodb --save`
+8. Από PowerShell (και στο directory του αρχείου mongodb.js
+  C:\Programming\Projects\appathon_project\src\database> `node .\mongodb.js`  
 
 
 ### Dataset used: 
